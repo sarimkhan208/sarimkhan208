@@ -37,7 +37,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
  
 - 💬 Have a look at my [Portfolio](https://sarimkhan208.github.io/) 
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1w6skRez72kCV9W7hv4TTjIqgrYb9NASF/view?usp=sharing" target="_target">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/1WKA5NlGjM8jWZHE8aSBDPt37L6xYXGG5/view?usp=sharing" target="_target">Resume</a>
 - <p align="left"> <a href="https://twitter.com/SARimCASM" target="blank"><img src="https://img.shields.io/twitter/follow/SARimCASM?logo=twitter&style=for-the-badge" alt="sarcasticcoder" /></a> </p>
 
 
